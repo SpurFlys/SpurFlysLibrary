@@ -1,6 +1,6 @@
 # SPUR-FLYS Library
 
-This is a library created for RobotC and for use on SPUR-FLYS (Team 21)
+This is a library created for RobotC and for use on SPUR-FLYS (Team 21) by Jess Zarchi
 
 The library contains the following:
   - TrueSpeed for all ports
