@@ -10,17 +10,17 @@ The library contains the following:
   - And more to come
   
 Overview of the main functions:
-  clearLcdLines ();
-  trueSpeed (int iPort, int iInput);
-  clearAllIME ();
-  setAllMotor393 ();
-  setAllMotor269 ();
-  motorSetup (tMotor iPort, bool bIsReverse, bool bIsTrueSpeed, bool bSlew);
-  motorSetup (tMotor iPort, bool bIsReverse, bool bIsTrueSpeed);
-  motorSetup (tMotor iPort, bool bIsReverse);
-  motorSet (int iPort, int iSpeed);
-  logDrive (int iInput, float iMultiply);
-  testAllMotors();
-  tan (float fInput);
-  tanDegrees (float fInput);
-  clipNum (int iInput, int iHigh, int iLow);
+  - clearLcdLines ();
+  - trueSpeed (int iPort, int iInput);
+  - clearAllIME ();
+  - setAllMotor393 ();
+  - setAllMotor269 ();
+  - motorSetup (tMotor iPort, bool bIsReverse, bool bIsTrueSpeed, bool bSlew);
+  - motorSetup (tMotor iPort, bool bIsReverse, bool bIsTrueSpeed);
+  - motorSetup (tMotor iPort, bool bIsReverse);
+  - motorSet (int iPort, int iSpeed);
+  - logDrive (int iInput, float iMultiply);
+  - testAllMotors();
+  - tan (float fInput);
+  - tanDegrees (float fInput);
+  - clipNum (int iInput, int iHigh, int iLow);
